@@ -1,0 +1,62 @@
+body {
+      font-family: Arial, sans-serif;
+      background-color: white;
+      padding: 20px;
+    }
+    .profile-card {
+      max-width: 400px;
+      margin: auto;
+      background-color: white;
+      border: 2px solid black; 
+      border-radius: 10px;
+      padding: 10px; 
+    }
+    .section {
+      margin-bottom: 10px; 
+      padding: 15px;
+      border-radius: 5px;
+      color: white;
+    }
+    .header {
+      background-color: rgb(79, 130, 79);
+      text-align: center;
+    }
+    .header img {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-right: 100%;
+      border: none;
+    }
+    .name-section {
+      background-color: rgb(74, 133, 185);
+      
+    }
+    .bio-section {
+      background-color: rgb(178, 148, 38);
+      font-size: 14px;
+    }
+    .contact-section {
+      background-color: rgb(88, 44, 135);
+      font-size: 14px;
+    }
+    .social-section {
+      background-color: rgb(234, 31, 31);
+      
+    }
+    .social-section a {
+      color: white;
+      margin: 0 10px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .p1{
+        color: gold;
+    }
+    #span1{
+        color: white;
+    }
+    #a1{
+        color: gold;
+    }
